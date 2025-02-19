@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'am Guts and I'm a cybsec student, from México.</h2>
+<h2 align="left">Hi 👋! I'm Gus and I'm a Software Engineering student, from Mexico.</h2>
 
 ###
 
