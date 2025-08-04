@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Student | Software developer 💻</h3>
+<h3 align="center">Student | Software developer 💻 | Network Enjoyer 🌐</h3>
 
 ###
 
